@@ -2,7 +2,7 @@
 
 An interactive, real-time 3D visualization of a classic sailboat built with **Three.js**. Explore the boat’s hull, mast, sail, and rigging in a dynamic ocean environment with realistic lighting, shadows, and gentle water animation.
 
-![3D Boat Structure Preview](https://via.placeholder.com/800x400?text=3D+Boat+Visualization)
+<img width="1903" height="905" alt="image" src="https://github.com/user-attachments/assets/8dcd2af1-9b97-44ce-acec-4eedd11ad52a" />
 
 ##  Features
 
