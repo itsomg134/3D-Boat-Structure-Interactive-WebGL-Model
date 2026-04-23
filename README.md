@@ -13,7 +13,7 @@ An interactive, real-time 3D visualization of a classic sailboat built with **Th
 - **Informative Labels** – CSS2D labels identify key parts of the boat.
 - **Optimized Lighting** – Directional sunlight, ambient fill, rim light, and hemisphere light create depth and realism.
 
-## 🎮 Controls
+##  Controls
 
 | Action               | Input                              |
 | -------------------- | ---------------------------------- |
@@ -21,20 +21,20 @@ An interactive, real-time 3D visualization of a classic sailboat built with **Th
 | Pan                  | Right-click + drag                 |
 | Zoom                 | Scroll wheel / pinch               |
 
-## 🚀 Live Demo
+##  Live Demo
 
 > *(If hosted on GitHub Pages or another platform, replace the link below)*
 
 🔗 [View Live Demo](https://your-username.github.io/3d-boat-structure)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - [Three.js](https://threejs.org/) – WebGL 3D library
 - JavaScript (ES6 Modules)
 - CSS2DRenderer for text labels
 - HTML5/CSS3
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 3d-boat-structure/
@@ -44,7 +44,7 @@ An interactive, real-time 3D visualization of a classic sailboat built with **Th
 
 > The entire application is contained in a single HTML file for easy deployment and sharing.
 
-## 🧩 How It Works
+##  How It Works
 
 1. **Scene Setup** – A Three.js scene with perspective camera, WebGL and CSS2D renderers, and orbit controls.
 2. **Lighting** – Combination of directional, point, ambient, and hemisphere lights to simulate natural outdoor lighting.
@@ -53,7 +53,7 @@ An interactive, real-time 3D visualization of a classic sailboat built with **Th
 5. **Labels** – CSS2DRenderer places HTML divs that always face the camera.
 6. **Animation Loop** – Updates water vertices, boat rocking, flag waving, cloud positions, and light intensity.
 
-## 📦 Local Installation
+##  Local Installation
 
 To run this project locally:
 
@@ -76,29 +76,23 @@ To run this project locally:
 
 > No build steps or dependencies are required – the script imports Three.js from CDN.
 
-## 🎨 Customization Ideas
+##  Customization Ideas
 
 - **Change Boat Colors** – Modify the `color` values in `MeshStandardMaterial` parameters (hull, sail, mast).
 - **Adjust Water Movement** – Edit the `animateWater()` function to change wave frequency/amplitude.
 - **Add More Details** – Include an anchor, lifebuoy, or additional sails.
 - **Replace Water Texture** – Use a custom shader or load an environment map for reflections.
 
-## 📸 Screenshots
+##  Contact
 
-| Perspective | Close-up on Hull |
-|-------------|------------------|
-| *(Add screenshot 1)* | *(Add screenshot 2)* |
+Om Gedam
 
-## 📄 License
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-MIT License – free for personal and commercial use.
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-## 🙏 Acknowledgements
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
 
-- Built with [Three.js](https://threejs.org/)
-- Inspired by classic sailing vessels and maritime aesthetics
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
 
----
-
-**Enjoy sailing the digital seas!** 🌊⛵
-```
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
